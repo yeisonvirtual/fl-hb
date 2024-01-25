@@ -54,7 +54,7 @@ body {
   --fl-speed: 0.3s;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 425px) {
   .flower {
     bottom: 50vmin;
   }
@@ -90,24 +90,6 @@ body {
   }
 
 }
-
-/* @media (max-width: 375px) {
-  .flower {
-    bottom: 40vmin;
-  }
-  .flower__g-right {
-    bottom: 40vmin !important;
-  }
-  .flower__grass {
-    bottom: 40vmin !important;
-  }
-  .flower__g-front {
-    bottom: 40vmin !important;
-  }
-  .flower__g-long {
-    bottom: 40vmin !important;
-  }
-} */
 
 /* @media (max-width: 375px) {
   .flower {
