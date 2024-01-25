@@ -56,19 +56,19 @@ body {
 
 @media (max-width: 375px) {
   .flower {
-    bottom: 40vmin;
+    bottom: 80vmin;
   }
   .flower__g-right {
-    bottom: 40vmin !important;
+    bottom: 100vmin !important;
   }
   .flower__grass {
-    bottom: 40vmin !important;
+    bottom: 100vmin !important;
   }
   .flower__g-front {
-    bottom: 40vmin !important;
+    bottom: 100vmin !important;
   }
   .flower__g-long {
-    bottom: 40vmin !important;
+    bottom: 100vmin !important;
   }
 
   @media (max-width: 280px) {
