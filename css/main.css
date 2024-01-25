@@ -54,38 +54,38 @@ body {
   --fl-speed: 0.3s;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 768px) {
   .flower {
-    bottom: 50vmin;
+    bottom: 80vmin;
   }
   .flower__g-right {
-    bottom: 50vmin !important;
+    bottom: 80vmin !important;
   }
   .flower__grass {
-    bottom: 50vmin !important;
+    bottom: 80vmin !important;
   }
   .flower__g-front {
-    bottom: 50vmin !important;
+    bottom: 80vmin !important;
   }
   .flower__g-long {
-    bottom: 50vmin !important;
+    bottom: 80vmin !important;
   }
 
-  @media (max-width: 280px) {
+  @media (max-width: 425px) {
     .flower {
-      bottom: 100vmin;
+      bottom: 160vmin;
     }
     .flower__g-right {
-      bottom: 100vmin !important;
+      bottom: 160vmin !important;
     }
     .flower__grass {
-      bottom: 100vmin !important;
+      bottom: 160vmin !important;
     }
     .flower__g-front {
-      bottom: 100vmin !important;
+      bottom: 160vmin !important;
     }
     .flower__g-long {
-      bottom: 100vmin !important;
+      bottom: 160vmin !important;
     }
   }
 
