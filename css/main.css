@@ -56,22 +56,22 @@ body {
 
 @media (max-width: 768px) {
   .flower {
-    bottom: 80vmin;
+    bottom: 40vmin;
   }
   .flower__g-right {
-    bottom: 80vmin !important;
+    bottom: 40vmin !important;
   }
   .flower__grass {
-    bottom: 80vmin !important;
+    bottom: 40vmin !important;
   }
   .flower__g-front {
-    bottom: 80vmin !important;
+    bottom: 40vmin !important;
   }
   .flower__g-long {
-    bottom: 80vmin !important;
+    bottom: 40vmin !important;
   }
 
-  @media (max-width: 425px) {
+  /* @media (max-width: 425px) {
     .flower {
       bottom: 160vmin;
     }
@@ -87,7 +87,7 @@ body {
     .flower__g-long {
       bottom: 160vmin !important;
     }
-  }
+  } */
 
 }
 
