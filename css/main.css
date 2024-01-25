@@ -54,9 +54,9 @@ body {
   --fl-speed: 0.3s;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 475px) {
   .flower {
-    bottom: 80vmin;
+    bottom: 100vmin;
   }
   .flower__g-right {
     bottom: 100vmin !important;
