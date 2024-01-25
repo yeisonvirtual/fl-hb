@@ -56,6 +56,61 @@ body {
 
 @media (max-width: 375px) {
   .flower {
+    bottom: 50vmin;
+  }
+  .flower__g-right {
+    bottom: 50vmin !important;
+  }
+  .flower__grass {
+    bottom: 50vmin !important;
+  }
+  .flower__g-front {
+    bottom: 50vmin !important;
+  }
+  .flower__g-long {
+    bottom: 50vmin !important;
+  }
+
+  @media (max-width: 280px) {
+    .flower {
+      bottom: 100vmin;
+    }
+    .flower__g-right {
+      bottom: 100vmin !important;
+    }
+    .flower__grass {
+      bottom: 100vmin !important;
+    }
+    .flower__g-front {
+      bottom: 100vmin !important;
+    }
+    .flower__g-long {
+      bottom: 100vmin !important;
+    }
+  }
+
+}
+
+/* @media (max-width: 375px) {
+  .flower {
+    bottom: 40vmin;
+  }
+  .flower__g-right {
+    bottom: 40vmin !important;
+  }
+  .flower__grass {
+    bottom: 40vmin !important;
+  }
+  .flower__g-front {
+    bottom: 40vmin !important;
+  }
+  .flower__g-long {
+    bottom: 40vmin !important;
+  }
+} */
+
+/* @media (max-width: 375px) {
+  .flower {
     bottom: 80vmin;
   }
   .flower__g-right {
@@ -70,7 +125,7 @@ body {
   .flower__g-long {
     bottom: 80vmin !important;
   }
-}
+} */
 
 .flower--1 {
   -webkit-animation: moving-flower-1 4s linear infinite;
